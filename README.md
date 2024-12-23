@@ -1,3 +1,5 @@
+# This repository is deprecated in favour of the new impromat code repository [here](https://github.com/marcoklein/impromat)
+
 [![Release](https://github.com/marcoklein/impromat/actions/workflows/release.yml/badge.svg)](https://github.com/marcoklein/impromat/actions/workflows/release.yml)
 
 [![website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fimpromat.app)](https://impromat.app)
